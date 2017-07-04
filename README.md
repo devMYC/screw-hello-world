@@ -1,4 +1,4 @@
-# Any programming language is welcome!
+# All programming languages are welcomed!
 
 ### All you need to do in the code
 
